@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+yt-dlp
+requests
+beautifulsoup4
